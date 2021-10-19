@@ -1,0 +1,8 @@
+.option {
+    font-weight: normal;
+
+    &:hover {
+        cursor: pointer;
+        font-weight: bold;
+    }
+}
